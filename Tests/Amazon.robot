@@ -1,6 +1,6 @@
 *** Settings ***
-Documentation  This is some basic info about the entire suite
-Library  SeleniumLibrary
+Documentation    This is some basic info about the entire suite
+Library    SeleniumLibrary
 
 *** Variables ***
 
